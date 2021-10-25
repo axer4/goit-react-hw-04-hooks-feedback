@@ -1,0 +1,15 @@
+.block {
+  display: flex;
+  justify-content: center;
+}
+.button {
+  margin-right: 8px;
+  font-size: 28px;
+  border-radius: 25px;
+  cursor: pointer;
+}
+.button:hover {
+  transform: scale(1.2);
+  background-color: black;
+  color: aliceblue;
+}
